@@ -1,53 +1,5 @@
 {
   "posts": [
-    {
-      "name": "Nirmal",
-      "email": "nirmal@gmail.com",
-      "mobile": "8056331340",
-      "address": "fsdfsdfdsfd",
-      "id": 1
-    },
-    {
-      "name": "Nirm",
-      "email": "nirmal@gmail.com",
-      "mobile": "8056331340",
-      "address": "fsdfsdfdsfd",
-      "id": 2
-    },
-    {
-      "name": "Nirma",
-      "email": "nirmal@gmail.com",
-      "mobile": "8056331340",
-      "address": "fsdfsdfdsfd",
-      "id": 3
-    },
-    {
-      "name": "Nirma",
-      "email": "web",
-      "mobile": "8056331340",
-      "address": "fsdfsdfdsfd",
-      "id": 4
-    },
-    {
-      "name": "Nirma",
-      "email": "web",
-      "mobile": "8056331340",
-      "address": "fsdfsdfdsfd",
-      "id": 5
-    },
-    {
-      "name": "Nirma",
-      "email": "web",
-      "mobile": "8056331340",
-      "address": "fsdfsdfdsfd",
-      "id": 6
-    },
-    {
-      "name": "mugil",
-      "email": "mugil@gmail.com",
-      "mobile": "8056331340",
-      "address": "fsdfsdfdsfd",
-      "id": 7
-    }
+    
   ]
 }

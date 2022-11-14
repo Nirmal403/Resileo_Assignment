@@ -1,0 +1,48 @@
+#container {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #container td, #container th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #container tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #container tr:hover {background-color: #ddd;}
+  
+  #container th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  #form{
+    /* border: 1px solid red; */
+    margin:auto;
+    width:40%;
+    padding:5px;
+  }
+  #validation{
+    /* border: 1px solid red; */
+    margin:auto;
+    width:80%;
+  }
+  #h1{
+    text-align: center;
+  }
+
+  #submit{
+    background-color: #04AA6D;
+    border:1px solid  #04AA6D;
+    margin-left: 20%;
+    color:white;
+    justify-content: center;
+  }
+  #submit:active{
+    background-color:  #14ffa9;;
+  }
